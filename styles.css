@@ -1,7 +1,18 @@
 body{
-background-color: crimson;
+background-color: burlywood;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1{
   color:beige;
+  text-align: center;
+}
+.assign{
+  background-color: coral;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+}
+.assign img {
+  width: 200px;
+  padding: 10px:
 }
